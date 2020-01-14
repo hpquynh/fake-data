@@ -2,7 +2,7 @@
   "todos": [
     {
       "id": 1,
-      "description": "Daily meeting at 15\'o clock",
+      "description": "Daily meeting at 15'o clock",
       "status": true
     },
     {
